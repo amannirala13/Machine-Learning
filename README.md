@@ -85,7 +85,7 @@ Term | Defination
 **Prediction** | Once our model is ready, it can be fed a set of inputs to which it will provide a predicted output(label).
 
 Complete flow of Machine Learning
-
+--
 ![ Image of Follow of Machine Learning ](assets/img/training.png)
 
 ***
