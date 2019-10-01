@@ -46,6 +46,7 @@ No labels are given to the learning algorithm, leaving it on its own to find str
 
 A diagram which clears the concept of supervised and unsupervised learning
 --
+
 Supervised Learning | Unsupervised Learning
 --------------------|----------------------
 ![ Image of Unsupervised Learning ](assets/img/supervised_learning.png) | ![ Image of Supervised Learning ](assets/img/unsupervised_learning.png)
