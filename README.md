@@ -27,7 +27,7 @@ Let's discuss all the ways by which we do machine learning
 
  - **Market Prediction/Regression :** *You train the computer with historical market data and ask the computer to predict the new price in the future.*
 
- ![Image of Supervised Learning](https://github.com/amannirala13/Machine-Learning/__github_res__/ing/yaktocat.png)
+ ![Image of Supervised Learning](https://github.com/amannirala13/Machine-Learning/__github_res__/img/supervised_learning.png)
 
 ### **2. 🤹 Unsupervised Learning**
 No labels are given to the learning algorithm, leaving it on its own to find structure in its input. It is used for clustering population in different groups. Unsupervised learning can be a goal in itself (discovering hidden patterns in data).
