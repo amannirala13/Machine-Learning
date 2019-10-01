@@ -39,7 +39,7 @@ No labels are given to the learning algorithm, leaving it on its own to find str
 
 - **Generative Models :** *After a model captures the probability distribution of your input data, it will be able to generate more data. This can be very useful to make your classifier more robust.*
 
->A diagram which clears the concept of supervised and unsupervised learning
+>**A diagram which clears the concept of supervised and unsupervised learning**
 
 Supervised learning | Unsupervised learning
 ------------------- | ---------------------
@@ -57,7 +57,7 @@ Inputs are divided into two or more classes, and the learner must produce a mode
 ### **5. 📈 Regression**
 It is also a supervised learning problem, but the outputs are continuous rather than discrete. For example, predicting the stock prices using historical data.
 
-  >Classification and regression on two different datasets
+  >**Classification and regression on two different datasets**
 
   ![Image of Supervised Learning](/__github_res__/img/classification_regression.png)
 
