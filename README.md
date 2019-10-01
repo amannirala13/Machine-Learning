@@ -1,5 +1,6 @@
 # **🧠 Machine Learning**
 Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that which makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect.
+
 ***
 
 ## **📚 Types of machine learning**
@@ -38,14 +39,30 @@ No labels are given to the learning algorithm, leaving it on its own to find str
 
 - **Generative Models :** *After a model captures the probability distribution of your input data, it will be able to generate more data. This can be very useful to make your classifier more robust.*
 
-A diagram which clears the concept of supervised and unsupervised learning
--------------------------------------------
+>A diagram which clears the concept of supervised and unsupervised learning
+
 Supervised learning | Unsupervised learning
 ------------------- | ---------------------
 ![Image of Supervised Learning](/__github_res__/img/supervised_learning.png) | ![Image of Supervised Learning](/__github_res__/img/unsupervised_learning.png)
 The data in supervised learning is labelled & distinguishes data points as **[O]** & **[X]** | The data in supervised learning is not labelled as all the data points are labeled **[O]**
 
-### **3. 🤹 Reinforcement learning**
+### **3. 🏆 Reinforcement learning**
 A computer program interacts with a dynamic environment in which it must perform a certain goal (such as driving a vehicle or playing a game against an opponent). The program is provided feedback in terms of rewards and punishments as it navigates its problem space.
 
 ![Image of Supervised Learning](/__github_res__/img/reinforcement_learning.png)
+
+### **4. 📊 Classification**
+Inputs are divided into two or more classes, and the learner must produce a model that assigns unseen inputs to one or more (multi-label classification) of these classes. This is typically tackled in a supervised way. Spam filtering is an example of classification, where the inputs are email (or other) messages and the classes are “spam” and “not spam”.
+
+### **5. 📈 Regression**
+It is also a supervised learning problem, but the outputs are continuous rather than discrete. For example, predicting the stock prices using historical data.
+
+  >Classification and regression on two different datasets
+
+  ![Image of Supervised Learning](/__github_res__/img/classification_regression.png)
+
+### **6. Clustering**
+Here, a set of inputs is to be divided into groups. Unlike in classification, the groups are not known beforehand, making this typically an unsupervised task.
+As you can see in the example below, the given dataset points have been divided into groups identifiable by the colors red, green and blue.
+
+![Image of Supervised Learning](/__github_res__/img/clustering.png)
