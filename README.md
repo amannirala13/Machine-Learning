@@ -41,7 +41,7 @@ No labels are given to the learning algorithm, leaving it on its own to find str
 
 A diagram which clears the concept of supervised and unsupervised learning
 --
-![ Image of Unsupervised Learning ](__github_res__/img/supervised_learning.png) | ![ Image of Supervised Learning ](__github_res__/img/unsupervised_learning.png)
+![ Image of Unsupervised Learning ](assets/img/supervised_learning.png) | ![ Image of Supervised Learning ](assets/img/unsupervised_learning.png)
 ------------------- | ---------------------
 The data in supervised learning is labelled & distinguishes data points as **[O]** & **[X]** | The data in supervised learning is not labelled as all the data points are labeled **[O]**
 
@@ -50,7 +50,7 @@ A computer program interacts with a dynamic environment in which it must perform
 
 Diagram of reinforcement Learning
 --
-![ Image of Reinforcement Learning ](__github_res__/img/reinforcement_learning.png)
+![ Image of Reinforcement Learning ](assets/img/reinforcement_learning.png)
 
 ### **4. 📊 Classification**
 Inputs are divided into two or more classes, and the learner must produce a model that assigns unseen inputs to one or more (multi-label classification) of these classes. This is typically tackled in a supervised way. Spam filtering is an example of classification, where the inputs are email (or other) messages and the classes are “spam” and “not spam”.
@@ -61,7 +61,7 @@ It is also a supervised learning problem, but the outputs are continuous rather 
 
  Classification and regression on two different datasets
 --
-  ![ Image of Regression ](__github_res__/img/classification_regression.png)
+  ![ Image of Regression ](assets/img/classification_regression.png)
 
 ### **6. Clustering**
 Here, a set of inputs is to be divided into groups. Unlike in classification, the groups are not known beforehand, making this typically an unsupervised task.
@@ -69,7 +69,7 @@ As you can see in the example below, the given dataset points have been divided 
 
 Diagram with 3 clusters
 --
-![ Image of Clustering ](__github_res__/img/clustering.png)
+![ Image of Clustering ](assets/img/clustering.png)
 
 ***
 
@@ -85,8 +85,8 @@ Term | Defination
 **Prediction** | Once our model is ready, it can be fed a set of inputs to which it will provide a predicted output(label).
 
 Complete flow of Machine Learning
---
-![ Image of Clustering ](__github_res__/img/training.png)
+
+![ Image of Follow of Machine Learning ](assets/img/training.png)
 
 ***
 ## **❤ Support**
