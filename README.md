@@ -29,7 +29,7 @@ Let's discuss all the ways by which we do machine learning
 ### **1. 🧐 Supervised Learning**
  The computer is presented with example inputs and their desired outputs, given by a “teacher”, and the goal is to learn a general rule that maps inputs to outputs. The training process continues until the model achieves the desired level of accuracy on the training data.
 
- #### **Used Cases**
+#### **Used Cases**
  - **Image Classification :** *You train with images/labels. Then in the future you give a new image expecting that the computer will recognize the new object.*
 
  - **Market Prediction/Regression :** *You train the computer with historical market data and ask the computer to predict the new price in the future.*
