@@ -1,0 +1,7 @@
+Basic Probability
+Distributions
+Bayesian statistics
+
+Hypothesis testing, P Value, Confidence Intervals, One and two tailed tests,
+
+Linear Regression
